@@ -1,5 +1,5 @@
 :root{
-    --primary-color:#0d00ff;
+    --primary-color:#FF5E14;
     --primarytext-color:white;
     --fontfamily:"Nunito Sans", sans-serif;
 }
@@ -7,7 +7,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family:var(--fontfamily);
-  font-optical-sizing: auto;
+ 
 }
 a{
     text-decoration: none;
